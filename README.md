@@ -12,7 +12,7 @@ This program converts between US state names, and abbreviations. For example, co
 6. Make a Pull Request to the original repo
 7. Watch for feedback in the PR review
 
-When you create a PR, PyLint will run on your code and make some style checks. If it finds issues, you'll see a failing checks message in your PR. If all the checks pass, this doesn't mean that everything is good - there are numerous other things that should be fixed that PyLint does not check for. 
+When you create a PR, PyLint will run on your code and make some style checks. If it finds issues, you'll see a failing checks message in your PR. **If all the checks pass, this doesn't mean that everything is good - there are numerous other things that should be fixed that PyLint does not check for.**
 
 ## Code quality issues to look for 
 
